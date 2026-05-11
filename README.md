@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hello! 👋
 
 I'm **Neha Nirmal**, a Computer Engineer passionate about **Backend Development** and **Data Analysis**.
 
