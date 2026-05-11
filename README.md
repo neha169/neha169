@@ -35,19 +35,12 @@ Interactive CLI game with difficulty levels, time tracking, and replay mode.
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neha169&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neha169&layout=compact&theme=tokyonight)
-
----
 
 ## 🤝 Connect
 
 - 💼 [GitHub](https://github.com/neha169)
-- 📧 Email: [Your Email]
-- 🔗 [LinkedIn](https://linkedin.com/in/your-profile)
+- 📧 Email: [nehanirmal1678@gmail.com]
+- 🔗 [LinkedIn](https://www.linkedin.com/in/neha-nirmal-54a042216/)
 
 ---
 
